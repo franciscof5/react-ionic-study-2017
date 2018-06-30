@@ -1,0 +1,24 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-alertify-js": "0.0.1",
+    "react-bootstrap": "^0.31.1",
+    "react-dom": "^15.6.1",
+    "react-ga": "^2.2.0",
+    "react-modal": "^2.2.2",
+    "react-native": "^0.46.3",
+    "react-notification-system": "^0.2.14",
+    "react-scripts": "1.0.10",
+    "react-timer": "^1.0.2",
+    "simple-react-modal": "^0.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
